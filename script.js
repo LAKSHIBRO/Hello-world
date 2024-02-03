@@ -109,7 +109,7 @@ class Effect {
         this.cols;
         this.flowField = [];
         this.debug = false;
-        this.text = ' Hello World ';
+        this.text = ' can I get a 2nd chance ';
         this.init();
 
         window.addEventListener('keydown', e => {
