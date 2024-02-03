@@ -121,7 +121,7 @@ class Effect {
         });
     }
     drawText(){
-        this.context.font = '600px Bangers';
+        this.context.font = '200px Bangers';
         this.context.textAlign = 'center';
         this.context.textBaseline = 'middle';
 
